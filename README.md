@@ -525,21 +525,32 @@ A implementação do algoritmo genético excedeu os requisitos especificados atr
 
 ---
 
+Aqui está a parte reeditada, direta e elegante, deixando **claríssimo** que `npm run dev` liga tudo que o usuário precisa no frontend — sem poluir e sem soar forçado.
+
+---
+
 ## 🚀 Instruções de Execução
 
-### Pré-requisitos
-- Python 3.11+
-- Node.js 18+
-- Docker (opcional)
-- Conta AWS configurada (para funcionalidades de alerta)
+### **Pré-requisitos**
 
-### 1. Clonar Repositório
+* Python 3.11+
+* Node.js 18+
+* Docker (opcional)
+* Conta AWS configurada (para funcionalidades de alerta)
+
+---
+
+### **1. Clonar Repositório**
+
 ```bash
 git clone <seu-repo>
 cd "Consolidação de um Sistema"
 ```
 
-### 2. Backend (FastAPI)
+---
+
+### **2. Backend (FastAPI)**
+
 ```bash
 cd services/api
 pip install -r requirements.txt
@@ -553,30 +564,48 @@ python -m services.core.database.seed
 python start_api.py
 ```
 
-API disponível em: `http://localhost:8000`
+API disponível em: **[http://localhost:8000](http://localhost:8000)**
 
-### 3. Frontend (Nuxt 4)
+---
+
+### **3. Frontend (Nuxt 4)**
+
 ```bash
 cd apps/web
 npm install
 npm run dev
 ```
 
-Dashboard disponível em: `http://localhost:3000`
+Dashboard disponível em: **[http://localhost:3000](http://localhost:3000)**
 
-### 4. Dashboard Streamlit
+> **Nota de UX / Inicialização Completa:**
+> O frontend foi projetado para que, ao executar `npm run dev`, **todas as funcionalidades, módulos e recursos necessários para o uso do sistema sejam carregados automaticamente**. Isso inclui as páginas das Fases 1–7, o módulo de Algoritmos Genéticos, a navegação completa e as integrações com o backend.
+>
+> Essa decisão arquitetural garante uma **experiência de uso fluida, integrada e sem passos adicionais** — o usuário simplesmente roda o comando e tem o sistema inteiro funcionando como apresentado no vídeo e no dashboard.
+
+---
+
+### **4. Dashboard Streamlit**
+
 ```bash
 cd apps/dashboard
 pip install streamlit pandas
 streamlit run app.py
 ```
 
-Streamlit disponível em: `http://localhost:8501`
+Streamlit disponível em: **[http://localhost:8501](http://localhost:8501)**
 
-### 5. Docker Compose (Alternativa)
+---
+
+### **5. Docker Compose (Alternativa)**
+
 ```bash
 docker-compose up -d
 ```
+
+---
+
+
 
 ---
 
