@@ -1,0 +1,16 @@
+{
+  "model_name": "ridge_regression",
+  "model_type": "Ridge",
+  "trained_date": "2025-11-22T16:51:16.570731",
+  "version": "1.0",
+  "r2_score": 0.76,
+  "mae": 3.1,
+  "rmse": 4.0,
+  "training_time_seconds": 0.04,
+  "features": [
+    "ph",
+    "temperatura"
+  ],
+  "target": "umidade",
+  "status": "treinado"
+}

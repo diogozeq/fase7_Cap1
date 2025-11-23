@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  # Backend API (FastAPI)
+  api:
+    build:
+      context: ./services/api
+      dockerfile: Dockerfile
+    container_name: farmtech-api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./data/farmtech.db
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+    volumes:
+      - ./services/api:/app
+      - api-data:/app/data
+    networks:
+      - farmtech-network
+    restart: unless-stopped
+
+  # Frontend (Nuxt 4)
+  web:
+    build:
+      context: ./apps/web
+      dockerfile: Dockerfile
+    container_name: farmtech-web
+    ports:
+      - "3000:3000"
+    environment:
+      - NUXT_PUBLIC_API_BASE=http://api:8000/api
+    volumes:
+      - ./apps/web:/app
+      - /app/node_modules
+    networks:
+      - farmtech-network
+    depends_on:
+      - api
+    restart: unless-stopped
+
+volumes:
+  api-data:
+
+networks:
+  farmtech-network:
+    driver: bridge

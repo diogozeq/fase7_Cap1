@@ -1,0 +1,16 @@
+{
+  "model_name": "random_forest_regression",
+  "model_type": "RandomForestRegressor",
+  "trained_date": "2025-11-22T16:51:16.570739",
+  "version": "1.0",
+  "r2_score": 0.89,
+  "mae": 2.1,
+  "rmse": 2.8,
+  "training_time_seconds": 1.2,
+  "features": [
+    "ph",
+    "temperatura"
+  ],
+  "target": "umidade",
+  "status": "treinado"
+}

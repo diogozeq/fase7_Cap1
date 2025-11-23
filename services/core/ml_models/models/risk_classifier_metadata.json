@@ -1,0 +1,15 @@
+{
+  "model_name": "risk_classifier",
+  "model_type": "RandomForestClassifier",
+  "trained_date": "2025-11-22T16:51:16.570688",
+  "version": "1.0",
+  "accuracy": 0.92,
+  "n_estimators": 100,
+  "features": [
+    "umidade",
+    "ph",
+    "temperatura"
+  ],
+  "target": "risk_level (0=low, 1=medium, 2=high)",
+  "status": "treinado"
+}

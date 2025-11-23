@@ -1,0 +1,8 @@
+{
+    "name": "@farmtech/dashboard",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "pip install -r requirements.txt && python dev.py"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "model_name": "linear_regression",
+  "model_type": "LinearRegression",
+  "trained_date": "2025-11-22T16:51:16.570727",
+  "version": "1.0",
+  "r2_score": 0.75,
+  "mae": 3.2,
+  "rmse": 4.1,
+  "training_time_seconds": 0.05,
+  "features": [
+    "ph",
+    "temperatura"
+  ],
+  "target": "umidade",
+  "status": "treinado"
+}

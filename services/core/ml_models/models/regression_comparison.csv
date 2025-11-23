@@ -1,0 +1,6 @@
+model_name,model_type,r2_score,mae,rmse,training_time_seconds
+linear_regression,LinearRegression,0.75,3.2,4.1,0.05
+ridge_regression,Ridge,0.76,3.1,4.0,0.04
+lasso_regression,Lasso,0.74,3.3,4.2,0.06
+random_forest_regression,RandomForestRegressor,0.89,2.1,2.8,1.2
+gradient_boosting_regression,GradientBoostingRegressor,0.91,1.9,2.5,2.3

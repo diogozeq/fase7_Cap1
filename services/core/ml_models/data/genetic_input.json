@@ -1,0 +1,1569 @@
+{
+  "generated_at": "2025-11-23T22:17:12Z",
+  "stats": {
+    "items": 154,
+    "media_valor_k": 3079.43,
+    "media_custo_k": 21290.85,
+    "media_agua_m3": 109.22,
+    "culturas": [
+      "Cafe",
+      "Cana de Acucar",
+      "Cana de Açúcar",
+      "Mandioca",
+      "Milho",
+      "Soja"
+    ],
+    "avg_umidade": 70.23,
+    "avg_precipitacao": 9.15,
+    "total_custo_k": 3278790.7,
+    "total_agua_m3": 16819.28
+  },
+  "items": [
+    {
+      "id": 1,
+      "cultura": "Cana de Acucar",
+      "area_ha": 89.28,
+      "valor_estimado_k": 3188.15,
+      "insumo_custo_k": 11784.96,
+      "insumo_qtd": 78566.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 39.34
+    },
+    {
+      "id": 2,
+      "cultura": "Cafe",
+      "area_ha": 80.43,
+      "valor_estimado_k": 4815.14,
+      "insumo_custo_k": 5227.95,
+      "insumo_qtd": 32172.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 59.34
+    },
+    {
+      "id": 3,
+      "cultura": "Mandioca",
+      "area_ha": 41.38,
+      "valor_estimado_k": 319.57,
+      "insumo_custo_k": 1862.1,
+      "insumo_qtd": 20690.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 15.31
+    },
+    {
+      "id": 4,
+      "cultura": "Cafe",
+      "area_ha": 35.21,
+      "valor_estimado_k": 3457.88,
+      "insumo_custo_k": 2288.65,
+      "insumo_qtd": 14084.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 49.71
+    },
+    {
+      "id": 5,
+      "cultura": "Mandioca",
+      "area_ha": 67.59,
+      "valor_estimado_k": 2855.66,
+      "insumo_custo_k": 3041.55,
+      "insumo_qtd": 33795.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 61.26
+    },
+    {
+      "id": 6,
+      "cultura": "Mandioca",
+      "area_ha": 53.28,
+      "valor_estimado_k": 3434.2,
+      "insumo_custo_k": 2397.6,
+      "insumo_qtd": 26640.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 66.26
+    },
+    {
+      "id": 7,
+      "cultura": "Cafe",
+      "area_ha": 83.93,
+      "valor_estimado_k": 5556.43,
+      "insumo_custo_k": 5455.45,
+      "insumo_qtd": 33572.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 55.41
+    },
+    {
+      "id": 8,
+      "cultura": "Mandioca",
+      "area_ha": 43.52,
+      "valor_estimado_k": 567.46,
+      "insumo_custo_k": 1958.4,
+      "insumo_qtd": 21760.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 24.83
+    },
+    {
+      "id": 9,
+      "cultura": "Soja",
+      "area_ha": 80.66,
+      "valor_estimado_k": 9533.65,
+      "insumo_custo_k": 4033.0,
+      "insumo_qtd": 48396.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 78.31
+    },
+    {
+      "id": 10,
+      "cultura": "Cana de Acucar",
+      "area_ha": 75.83,
+      "valor_estimado_k": 7641.47,
+      "insumo_custo_k": 10009.56,
+      "insumo_qtd": 66730.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 50.77
+    },
+    {
+      "id": 11,
+      "cultura": "Cana de Acucar",
+      "area_ha": 40.04,
+      "valor_estimado_k": 2776.49,
+      "insumo_custo_k": 5285.28,
+      "insumo_qtd": 35235.2,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 39.3
+    },
+    {
+      "id": 12,
+      "cultura": "Soja",
+      "area_ha": 15.23,
+      "valor_estimado_k": 677.6,
+      "insumo_custo_k": 761.5,
+      "insumo_qtd": 9138.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 26.06
+    },
+    {
+      "id": 13,
+      "cultura": "Milho",
+      "area_ha": 31.06,
+      "valor_estimado_k": 2487.61,
+      "insumo_custo_k": 1801.48,
+      "insumo_qtd": 21742.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 74.41
+    },
+    {
+      "id": 14,
+      "cultura": "Cana de Acucar",
+      "area_ha": 78.86,
+      "valor_estimado_k": 816.27,
+      "insumo_custo_k": 10409.52,
+      "insumo_qtd": 69396.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 18.75
+    },
+    {
+      "id": 15,
+      "cultura": "Cafe",
+      "area_ha": 71.37,
+      "valor_estimado_k": 2578.5,
+      "insumo_custo_k": 4639.05,
+      "insumo_qtd": 28548.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 48.44
+    },
+    {
+      "id": 16,
+      "cultura": "Soja",
+      "area_ha": 15.56,
+      "valor_estimado_k": 838.98,
+      "insumo_custo_k": 778.0,
+      "insumo_qtd": 9336.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 29.36
+    },
+    {
+      "id": 17,
+      "cultura": "Cana de Acucar",
+      "area_ha": 74.43,
+      "valor_estimado_k": 2837.24,
+      "insumo_custo_k": 9824.76,
+      "insumo_qtd": 65498.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 46.34
+    },
+    {
+      "id": 18,
+      "cultura": "Cana de Acucar",
+      "area_ha": 91.63,
+      "valor_estimado_k": 3262.65,
+      "insumo_custo_k": 12095.16,
+      "insumo_qtd": 80634.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 44.83
+    },
+    {
+      "id": 19,
+      "cultura": "Cana de Acucar",
+      "area_ha": 94.75,
+      "valor_estimado_k": 5157.72,
+      "insumo_custo_k": 12507.0,
+      "insumo_qtd": 83380.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 29.1
+    },
+    {
+      "id": 20,
+      "cultura": "Soja",
+      "area_ha": 71.68,
+      "valor_estimado_k": 2784.56,
+      "insumo_custo_k": 3584.0,
+      "insumo_qtd": 43008.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 20.33
+    },
+    {
+      "id": 21,
+      "cultura": "Soja",
+      "area_ha": 87.82,
+      "valor_estimado_k": 9670.63,
+      "insumo_custo_k": 4391.0,
+      "insumo_qtd": 52692.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 70.97
+    },
+    {
+      "id": 22,
+      "cultura": "Milho",
+      "area_ha": 98.28,
+      "valor_estimado_k": 2190.68,
+      "insumo_custo_k": 5700.24,
+      "insumo_qtd": 68796.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 16.8
+    },
+    {
+      "id": 23,
+      "cultura": "Soja",
+      "area_ha": 16.71,
+      "valor_estimado_k": 397.73,
+      "insumo_custo_k": 835.5,
+      "insumo_qtd": 10026.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 41.45
+    },
+    {
+      "id": 24,
+      "cultura": "Cana de Acucar",
+      "area_ha": 24.06,
+      "valor_estimado_k": 494.54,
+      "insumo_custo_k": 3175.92,
+      "insumo_qtd": 21172.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 15.01
+    },
+    {
+      "id": 25,
+      "cultura": "Soja",
+      "area_ha": 64.11,
+      "valor_estimado_k": 4527.38,
+      "insumo_custo_k": 3205.5,
+      "insumo_qtd": 38466.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 59.44
+    },
+    {
+      "id": 26,
+      "cultura": "Milho",
+      "area_ha": 98.61,
+      "valor_estimado_k": 2409.51,
+      "insumo_custo_k": 5719.38,
+      "insumo_qtd": 69027.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 45.14
+    },
+    {
+      "id": 27,
+      "cultura": "Cafe",
+      "area_ha": 11.0,
+      "valor_estimado_k": 347.02,
+      "insumo_custo_k": 715.0,
+      "insumo_qtd": 4400.0,
+      "agua_m3": 88.0,
+      "produtividade_t_ha": 20.74
+    },
+    {
+      "id": 28,
+      "cultura": "Soja",
+      "area_ha": 88.92,
+      "valor_estimado_k": 3486.56,
+      "insumo_custo_k": 4446.0,
+      "insumo_qtd": 53352.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 21.83
+    },
+    {
+      "id": 29,
+      "cultura": "Milho",
+      "area_ha": 6.11,
+      "valor_estimado_k": 244.72,
+      "insumo_custo_k": 354.38,
+      "insumo_qtd": 4277.0,
+      "agua_m3": 48.88,
+      "produtividade_t_ha": 63.65
+    },
+    {
+      "id": 30,
+      "cultura": "Mandioca",
+      "area_ha": 70.12,
+      "valor_estimado_k": 4936.03,
+      "insumo_custo_k": 3155.4,
+      "insumo_qtd": 35060.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 48.65
+    },
+    {
+      "id": 31,
+      "cultura": "Soja",
+      "area_ha": 48.76,
+      "valor_estimado_k": 2314.29,
+      "insumo_custo_k": 2438.0,
+      "insumo_qtd": 29256.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 59.12
+    },
+    {
+      "id": 32,
+      "cultura": "Mandioca",
+      "area_ha": 60.23,
+      "valor_estimado_k": 2822.83,
+      "insumo_custo_k": 2710.35,
+      "insumo_qtd": 30115.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 65.3
+    },
+    {
+      "id": 33,
+      "cultura": "Cana de Acucar",
+      "area_ha": 93.71,
+      "valor_estimado_k": 7525.16,
+      "insumo_custo_k": 12369.72,
+      "insumo_qtd": 82464.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 57.86
+    },
+    {
+      "id": 34,
+      "cultura": "Mandioca",
+      "area_ha": 65.55,
+      "valor_estimado_k": 671.04,
+      "insumo_custo_k": 2949.75,
+      "insumo_qtd": 32775.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 16.05
+    },
+    {
+      "id": 35,
+      "cultura": "Soja",
+      "area_ha": 58.75,
+      "valor_estimado_k": 6419.15,
+      "insumo_custo_k": 2937.5,
+      "insumo_qtd": 35250.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 55.32
+    },
+    {
+      "id": 36,
+      "cultura": "Milho",
+      "area_ha": 91.17,
+      "valor_estimado_k": 2170.3,
+      "insumo_custo_k": 5287.86,
+      "insumo_qtd": 63819.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 12.15
+    },
+    {
+      "id": 37,
+      "cultura": "Cana de Acucar",
+      "area_ha": 52.42,
+      "valor_estimado_k": 2588.4,
+      "insumo_custo_k": 6919.44,
+      "insumo_qtd": 46129.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 72.27
+    },
+    {
+      "id": 38,
+      "cultura": "Soja",
+      "area_ha": 24.79,
+      "valor_estimado_k": 1568.09,
+      "insumo_custo_k": 1239.5,
+      "insumo_qtd": 14874.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 56.31
+    },
+    {
+      "id": 39,
+      "cultura": "Cafe",
+      "area_ha": 8.71,
+      "valor_estimado_k": 209.35,
+      "insumo_custo_k": 566.15,
+      "insumo_qtd": 3484.0,
+      "agua_m3": 69.68,
+      "produtividade_t_ha": 12.18
+    },
+    {
+      "id": 40,
+      "cultura": "Cana de Acucar",
+      "area_ha": 24.97,
+      "valor_estimado_k": 1361.29,
+      "insumo_custo_k": 3296.04,
+      "insumo_qtd": 21973.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 30.21
+    },
+    {
+      "id": 41,
+      "cultura": "Cafe",
+      "area_ha": 18.6,
+      "valor_estimado_k": 1286.16,
+      "insumo_custo_k": 1209.0,
+      "insumo_qtd": 7440.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 35.19
+    },
+    {
+      "id": 42,
+      "cultura": "Milho",
+      "area_ha": 37.08,
+      "valor_estimado_k": 3565.13,
+      "insumo_custo_k": 2150.64,
+      "insumo_qtd": 25956.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 63.09
+    },
+    {
+      "id": 43,
+      "cultura": "Mandioca",
+      "area_ha": 69.67,
+      "valor_estimado_k": 8559.46,
+      "insumo_custo_k": 3135.15,
+      "insumo_qtd": 34835.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 76.16
+    },
+    {
+      "id": 44,
+      "cultura": "Cana de Acucar",
+      "area_ha": 21.59,
+      "valor_estimado_k": 1292.47,
+      "insumo_custo_k": 2849.88,
+      "insumo_qtd": 18999.2,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 52.17
+    },
+    {
+      "id": 45,
+      "cultura": "Cafe",
+      "area_ha": 75.94,
+      "valor_estimado_k": 6334.73,
+      "insumo_custo_k": 4936.1,
+      "insumo_qtd": 30376.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 70.25
+    },
+    {
+      "id": 46,
+      "cultura": "Milho",
+      "area_ha": 31.68,
+      "valor_estimado_k": 1012.33,
+      "insumo_custo_k": 1837.44,
+      "insumo_qtd": 22176.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 38.43
+    },
+    {
+      "id": 47,
+      "cultura": "Cana de Acucar",
+      "area_ha": 44.75,
+      "valor_estimado_k": 1943.47,
+      "insumo_custo_k": 5907.0,
+      "insumo_qtd": 39380.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 53.61
+    },
+    {
+      "id": 48,
+      "cultura": "Cafe",
+      "area_ha": 90.46,
+      "valor_estimado_k": 1417.41,
+      "insumo_custo_k": 5879.9,
+      "insumo_qtd": 36184.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 13.7
+    },
+    {
+      "id": 49,
+      "cultura": "Cafe",
+      "area_ha": 21.52,
+      "valor_estimado_k": 440.3,
+      "insumo_custo_k": 1398.8,
+      "insumo_qtd": 8608.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 17.85
+    },
+    {
+      "id": 50,
+      "cultura": "Soja",
+      "area_ha": 58.51,
+      "valor_estimado_k": 3620.19,
+      "insumo_custo_k": 2925.5,
+      "insumo_qtd": 35106.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 56.71
+    },
+    {
+      "id": 51,
+      "cultura": "Cana de Acucar",
+      "area_ha": 94.28,
+      "valor_estimado_k": 4023.32,
+      "insumo_custo_k": 12444.96,
+      "insumo_qtd": 82966.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 40.29
+    },
+    {
+      "id": 52,
+      "cultura": "Mandioca",
+      "area_ha": 47.36,
+      "valor_estimado_k": 544.84,
+      "insumo_custo_k": 2131.2,
+      "insumo_qtd": 23680.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 17.01
+    },
+    {
+      "id": 53,
+      "cultura": "Cana de Acucar",
+      "area_ha": 39.42,
+      "valor_estimado_k": 1629.1,
+      "insumo_custo_k": 5203.44,
+      "insumo_qtd": 34689.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 26.49
+    },
+    {
+      "id": 54,
+      "cultura": "Cafe",
+      "area_ha": 66.7,
+      "valor_estimado_k": 4038.19,
+      "insumo_custo_k": 4335.5,
+      "insumo_qtd": 26680.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 56.36
+    },
+    {
+      "id": 55,
+      "cultura": "Milho",
+      "area_ha": 94.91,
+      "valor_estimado_k": 11258.25,
+      "insumo_custo_k": 5504.78,
+      "insumo_qtd": 66437.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 77.09
+    },
+    {
+      "id": 56,
+      "cultura": "Cana de Acucar",
+      "area_ha": 49.18,
+      "valor_estimado_k": 3132.14,
+      "insumo_custo_k": 6491.76,
+      "insumo_qtd": 43278.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 57.32
+    },
+    {
+      "id": 57,
+      "cultura": "Soja",
+      "area_ha": 11.18,
+      "valor_estimado_k": 537.29,
+      "insumo_custo_k": 559.0,
+      "insumo_qtd": 6708.0,
+      "agua_m3": 89.44,
+      "produtividade_t_ha": 28.99
+    },
+    {
+      "id": 58,
+      "cultura": "Milho",
+      "area_ha": 9.69,
+      "valor_estimado_k": 351.53,
+      "insumo_custo_k": 562.02,
+      "insumo_qtd": 6783.0,
+      "agua_m3": 77.52,
+      "produtividade_t_ha": 38.49
+    },
+    {
+      "id": 59,
+      "cultura": "Milho",
+      "area_ha": 13.03,
+      "valor_estimado_k": 477.52,
+      "insumo_custo_k": 755.74,
+      "insumo_qtd": 9121.0,
+      "agua_m3": 104.24,
+      "produtividade_t_ha": 62.42
+    },
+    {
+      "id": 60,
+      "cultura": "Cana de Acucar",
+      "area_ha": 65.84,
+      "valor_estimado_k": 5347.0,
+      "insumo_custo_k": 8690.88,
+      "insumo_qtd": 57939.2,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 50.5
+    },
+    {
+      "id": 61,
+      "cultura": "Milho",
+      "area_ha": 79.61,
+      "valor_estimado_k": 1669.43,
+      "insumo_custo_k": 4617.38,
+      "insumo_qtd": 55727.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 14.7
+    },
+    {
+      "id": 62,
+      "cultura": "Cafe",
+      "area_ha": 55.9,
+      "valor_estimado_k": 6324.58,
+      "insumo_custo_k": 3633.5,
+      "insumo_qtd": 22360.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 76.91
+    },
+    {
+      "id": 63,
+      "cultura": "Cana de Acucar",
+      "area_ha": 42.53,
+      "valor_estimado_k": 3412.03,
+      "insumo_custo_k": 5613.96,
+      "insumo_qtd": 37426.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 41.05
+    },
+    {
+      "id": 64,
+      "cultura": "Soja",
+      "area_ha": 83.2,
+      "valor_estimado_k": 2275.73,
+      "insumo_custo_k": 4160.0,
+      "insumo_qtd": 49920.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 29.83
+    },
+    {
+      "id": 65,
+      "cultura": "Mandioca",
+      "area_ha": 65.55,
+      "valor_estimado_k": 2088.05,
+      "insumo_custo_k": 2949.75,
+      "insumo_qtd": 32775.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 18.07
+    },
+    {
+      "id": 66,
+      "cultura": "Cafe",
+      "area_ha": 12.95,
+      "valor_estimado_k": 235.68,
+      "insumo_custo_k": 841.75,
+      "insumo_qtd": 5180.0,
+      "agua_m3": 103.6,
+      "produtividade_t_ha": 22.65
+    },
+    {
+      "id": 67,
+      "cultura": "Cana de Acucar",
+      "area_ha": 43.47,
+      "valor_estimado_k": 1594.42,
+      "insumo_custo_k": 5738.04,
+      "insumo_qtd": 38253.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 18.61
+    },
+    {
+      "id": 68,
+      "cultura": "Cafe",
+      "area_ha": 53.45,
+      "valor_estimado_k": 3123.33,
+      "insumo_custo_k": 3474.25,
+      "insumo_qtd": 21380.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 48.51
+    },
+    {
+      "id": 69,
+      "cultura": "Milho",
+      "area_ha": 91.88,
+      "valor_estimado_k": 4746.78,
+      "insumo_custo_k": 5329.04,
+      "insumo_qtd": 64316.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 38.91
+    },
+    {
+      "id": 70,
+      "cultura": "Milho",
+      "area_ha": 77.0,
+      "valor_estimado_k": 11049.43,
+      "insumo_custo_k": 4466.0,
+      "insumo_qtd": 53900.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 73.38
+    },
+    {
+      "id": 71,
+      "cultura": "Cana de Acucar",
+      "area_ha": 88.47,
+      "valor_estimado_k": 2697.84,
+      "insumo_custo_k": 11678.04,
+      "insumo_qtd": 77853.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 28.83
+    },
+    {
+      "id": 72,
+      "cultura": "Cafe",
+      "area_ha": 6.2,
+      "valor_estimado_k": 604.88,
+      "insumo_custo_k": 403.0,
+      "insumo_qtd": 2480.0,
+      "agua_m3": 49.6,
+      "produtividade_t_ha": 53.0
+    },
+    {
+      "id": 73,
+      "cultura": "Cana de Acucar",
+      "area_ha": 80.48,
+      "valor_estimado_k": 1722.95,
+      "insumo_custo_k": 10623.36,
+      "insumo_qtd": 70822.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 13.29
+    },
+    {
+      "id": 74,
+      "cultura": "Milho",
+      "area_ha": 43.53,
+      "valor_estimado_k": 2708.62,
+      "insumo_custo_k": 2524.74,
+      "insumo_qtd": 30471.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 56.4
+    },
+    {
+      "id": 75,
+      "cultura": "Soja",
+      "area_ha": 64.97,
+      "valor_estimado_k": 4407.77,
+      "insumo_custo_k": 3248.5,
+      "insumo_qtd": 38982.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 34.86
+    },
+    {
+      "id": 76,
+      "cultura": "Mandioca",
+      "area_ha": 61.16,
+      "valor_estimado_k": 6967.77,
+      "insumo_custo_k": 2752.2,
+      "insumo_qtd": 30580.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 68.06
+    },
+    {
+      "id": 77,
+      "cultura": "Mandioca",
+      "area_ha": 40.56,
+      "valor_estimado_k": 4927.52,
+      "insumo_custo_k": 1825.2,
+      "insumo_qtd": 20280.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 64.02
+    },
+    {
+      "id": 78,
+      "cultura": "Cana de Acucar",
+      "area_ha": 27.25,
+      "valor_estimado_k": 1023.32,
+      "insumo_custo_k": 3597.0,
+      "insumo_qtd": 23980.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 23.2
+    },
+    {
+      "id": 79,
+      "cultura": "Cafe",
+      "area_ha": 39.47,
+      "valor_estimado_k": 4485.33,
+      "insumo_custo_k": 2565.55,
+      "insumo_qtd": 15788.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 61.29
+    },
+    {
+      "id": 80,
+      "cultura": "Cana de Acucar",
+      "area_ha": 97.37,
+      "valor_estimado_k": 7145.55,
+      "insumo_custo_k": 12852.84,
+      "insumo_qtd": 85685.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 37.39
+    },
+    {
+      "id": 81,
+      "cultura": "Cana de Acucar",
+      "area_ha": 17.77,
+      "valor_estimado_k": 2523.09,
+      "insumo_custo_k": 2345.64,
+      "insumo_qtd": 15637.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 76.07
+    },
+    {
+      "id": 82,
+      "cultura": "Soja",
+      "area_ha": 85.29,
+      "valor_estimado_k": 850.55,
+      "insumo_custo_k": 4264.5,
+      "insumo_qtd": 51174.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 11.56
+    },
+    {
+      "id": 83,
+      "cultura": "Milho",
+      "area_ha": 48.3,
+      "valor_estimado_k": 3143.05,
+      "insumo_custo_k": 2801.4,
+      "insumo_qtd": 33810.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 57.98
+    },
+    {
+      "id": 84,
+      "cultura": "Milho",
+      "area_ha": 74.72,
+      "valor_estimado_k": 10666.87,
+      "insumo_custo_k": 4333.76,
+      "insumo_qtd": 52304.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 71.65
+    },
+    {
+      "id": 85,
+      "cultura": "Mandioca",
+      "area_ha": 35.37,
+      "valor_estimado_k": 5569.52,
+      "insumo_custo_k": 1591.65,
+      "insumo_qtd": 17685.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 79.56
+    },
+    {
+      "id": 86,
+      "cultura": "Cafe",
+      "area_ha": 37.92,
+      "valor_estimado_k": 1882.81,
+      "insumo_custo_k": 2464.8,
+      "insumo_qtd": 15168.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 56.91
+    },
+    {
+      "id": 87,
+      "cultura": "Mandioca",
+      "area_ha": 33.13,
+      "valor_estimado_k": 2962.59,
+      "insumo_custo_k": 1490.85,
+      "insumo_qtd": 16565.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 44.72
+    },
+    {
+      "id": 88,
+      "cultura": "Soja",
+      "area_ha": 40.09,
+      "valor_estimado_k": 2070.73,
+      "insumo_custo_k": 2004.5,
+      "insumo_qtd": 24054.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 46.55
+    },
+    {
+      "id": 89,
+      "cultura": "Milho",
+      "area_ha": 46.18,
+      "valor_estimado_k": 1370.77,
+      "insumo_custo_k": 2678.44,
+      "insumo_qtd": 32326.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 25.75
+    },
+    {
+      "id": 90,
+      "cultura": "Cafe",
+      "area_ha": 12.41,
+      "valor_estimado_k": 653.57,
+      "insumo_custo_k": 806.65,
+      "insumo_qtd": 4964.0,
+      "agua_m3": 99.28,
+      "produtividade_t_ha": 77.01
+    },
+    {
+      "id": 91,
+      "cultura": "Milho",
+      "area_ha": 67.49,
+      "valor_estimado_k": 2057.32,
+      "insumo_custo_k": 3914.42,
+      "insumo_qtd": 47243.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 24.34
+    },
+    {
+      "id": 92,
+      "cultura": "Mandioca",
+      "area_ha": 48.35,
+      "valor_estimado_k": 2481.22,
+      "insumo_custo_k": 2175.75,
+      "insumo_qtd": 24175.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 41.01
+    },
+    {
+      "id": 93,
+      "cultura": "Cafe",
+      "area_ha": 50.15,
+      "valor_estimado_k": 2325.9,
+      "insumo_custo_k": 3259.75,
+      "insumo_qtd": 20060.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 24.5
+    },
+    {
+      "id": 94,
+      "cultura": "Mandioca",
+      "area_ha": 80.28,
+      "valor_estimado_k": 10729.13,
+      "insumo_custo_k": 3612.6,
+      "insumo_qtd": 40140.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 73.03
+    },
+    {
+      "id": 95,
+      "cultura": "Soja",
+      "area_ha": 77.57,
+      "valor_estimado_k": 4706.67,
+      "insumo_custo_k": 3878.5,
+      "insumo_qtd": 46542.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 39.81
+    },
+    {
+      "id": 96,
+      "cultura": "Mandioca",
+      "area_ha": 78.6,
+      "valor_estimado_k": 2685.67,
+      "insumo_custo_k": 3537.0,
+      "insumo_qtd": 39300.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 58.11
+    },
+    {
+      "id": 97,
+      "cultura": "Cana de Acucar",
+      "area_ha": 64.01,
+      "valor_estimado_k": 3276.74,
+      "insumo_custo_k": 8449.32,
+      "insumo_qtd": 56328.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 32.36
+    },
+    {
+      "id": 98,
+      "cultura": "Mandioca",
+      "area_ha": 58.32,
+      "valor_estimado_k": 2346.36,
+      "insumo_custo_k": 2624.4,
+      "insumo_qtd": 29160.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 36.32
+    },
+    {
+      "id": 99,
+      "cultura": "Cana de Acucar",
+      "area_ha": 43.03,
+      "valor_estimado_k": 2730.06,
+      "insumo_custo_k": 5679.96,
+      "insumo_qtd": 37866.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 42.43
+    },
+    {
+      "id": 100,
+      "cultura": "Soja",
+      "area_ha": 27.41,
+      "valor_estimado_k": 2006.64,
+      "insumo_custo_k": 1370.5,
+      "insumo_qtd": 16446.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 53.62
+    },
+    {
+      "id": 101,
+      "cultura": "Cafe",
+      "area_ha": 70.97,
+      "valor_estimado_k": 4708.33,
+      "insumo_custo_k": 4613.05,
+      "insumo_qtd": 28388.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 51.6
+    },
+    {
+      "id": 102,
+      "cultura": "Soja",
+      "area_ha": 66.05,
+      "valor_estimado_k": 3534.32,
+      "insumo_custo_k": 3302.5,
+      "insumo_qtd": 39630.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 71.57
+    },
+    {
+      "id": 103,
+      "cultura": "Cana de Acucar",
+      "area_ha": 81.77,
+      "valor_estimado_k": 2250.27,
+      "insumo_custo_k": 10793.64,
+      "insumo_qtd": 71957.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 29.27
+    },
+    {
+      "id": 104,
+      "cultura": "Mandioca",
+      "area_ha": 26.59,
+      "valor_estimado_k": 829.68,
+      "insumo_custo_k": 1196.55,
+      "insumo_qtd": 13295.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 34.0
+    },
+    {
+      "id": 105,
+      "cultura": "Mandioca",
+      "area_ha": 15.12,
+      "valor_estimado_k": 2260.78,
+      "insumo_custo_k": 680.4,
+      "insumo_qtd": 7560.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 77.53
+    },
+    {
+      "id": 106,
+      "cultura": "Milho",
+      "area_ha": 64.94,
+      "valor_estimado_k": 6955.26,
+      "insumo_custo_k": 3766.52,
+      "insumo_qtd": 45458.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 74.39
+    },
+    {
+      "id": 107,
+      "cultura": "Cana de Acucar",
+      "area_ha": 67.41,
+      "valor_estimado_k": 1555.14,
+      "insumo_custo_k": 8898.12,
+      "insumo_qtd": 59320.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 11.92
+    },
+    {
+      "id": 108,
+      "cultura": "Cana de Acucar",
+      "area_ha": 75.47,
+      "valor_estimado_k": 2762.29,
+      "insumo_custo_k": 9962.04,
+      "insumo_qtd": 66413.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 42.73
+    },
+    {
+      "id": 109,
+      "cultura": "Cana de Acucar",
+      "area_ha": 5.95,
+      "valor_estimado_k": 97.78,
+      "insumo_custo_k": 785.4,
+      "insumo_qtd": 5236.0,
+      "agua_m3": 48.0,
+      "produtividade_t_ha": 23.32
+    },
+    {
+      "id": 110,
+      "cultura": "Mandioca",
+      "area_ha": 29.24,
+      "valor_estimado_k": 2963.7,
+      "insumo_custo_k": 1315.8,
+      "insumo_qtd": 14620.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 73.87
+    },
+    {
+      "id": 111,
+      "cultura": "Milho",
+      "area_ha": 77.3,
+      "valor_estimado_k": 4305.12,
+      "insumo_custo_k": 4483.4,
+      "insumo_qtd": 54110.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 59.98
+    },
+    {
+      "id": 112,
+      "cultura": "Milho",
+      "area_ha": 28.69,
+      "valor_estimado_k": 1480.61,
+      "insumo_custo_k": 1664.02,
+      "insumo_qtd": 20083.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 72.28
+    },
+    {
+      "id": 113,
+      "cultura": "Cana de Acucar",
+      "area_ha": 59.66,
+      "valor_estimado_k": 6344.34,
+      "insumo_custo_k": 7875.12,
+      "insumo_qtd": 52500.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 65.16
+    },
+    {
+      "id": 114,
+      "cultura": "Cana de Acucar",
+      "area_ha": 73.52,
+      "valor_estimado_k": 2473.57,
+      "insumo_custo_k": 9704.64,
+      "insumo_qtd": 64697.6,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 52.04
+    },
+    {
+      "id": 115,
+      "cultura": "Soja",
+      "area_ha": 47.32,
+      "valor_estimado_k": 1787.85,
+      "insumo_custo_k": 2366.0,
+      "insumo_qtd": 28392.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 35.73
+    },
+    {
+      "id": 116,
+      "cultura": "Milho",
+      "area_ha": 33.47,
+      "valor_estimado_k": 361.74,
+      "insumo_custo_k": 1941.26,
+      "insumo_qtd": 23429.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 14.55
+    },
+    {
+      "id": 117,
+      "cultura": "Milho",
+      "area_ha": 81.01,
+      "valor_estimado_k": 3906.62,
+      "insumo_custo_k": 4698.58,
+      "insumo_qtd": 56707.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 41.36
+    },
+    {
+      "id": 118,
+      "cultura": "Mandioca",
+      "area_ha": 74.4,
+      "valor_estimado_k": 5319.33,
+      "insumo_custo_k": 3348.0,
+      "insumo_qtd": 37200.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 68.09
+    },
+    {
+      "id": 119,
+      "cultura": "Soja",
+      "area_ha": 75.36,
+      "valor_estimado_k": 7941.46,
+      "insumo_custo_k": 3768.0,
+      "insumo_qtd": 45216.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 61.28
+    },
+    {
+      "id": 120,
+      "cultura": "Cana de Acucar",
+      "area_ha": 58.24,
+      "valor_estimado_k": 2014.32,
+      "insumo_custo_k": 7687.68,
+      "insumo_qtd": 51251.2,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 19.72
+    },
+    {
+      "id": 121,
+      "cultura": "Soja",
+      "area_ha": 72.82,
+      "valor_estimado_k": 1823.67,
+      "insumo_custo_k": 3641.0,
+      "insumo_qtd": 43692.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 16.67
+    },
+    {
+      "id": 122,
+      "cultura": "Soja",
+      "area_ha": 11.86,
+      "valor_estimado_k": 1248.61,
+      "insumo_custo_k": 593.0,
+      "insumo_qtd": 7116.0,
+      "agua_m3": 94.88,
+      "produtividade_t_ha": 56.14
+    },
+    {
+      "id": 123,
+      "cultura": "Milho",
+      "area_ha": 83.37,
+      "valor_estimado_k": 3542.05,
+      "insumo_custo_k": 4835.46,
+      "insumo_qtd": 58359.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 24.53
+    },
+    {
+      "id": 124,
+      "cultura": "Cana de Acucar",
+      "area_ha": 76.46,
+      "valor_estimado_k": 1839.65,
+      "insumo_custo_k": 10092.72,
+      "insumo_qtd": 67284.8,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 14.82
+    },
+    {
+      "id": 125,
+      "cultura": "Milho",
+      "area_ha": 47.81,
+      "valor_estimado_k": 1501.88,
+      "insumo_custo_k": 2772.98,
+      "insumo_qtd": 33467.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 30.7
+    },
+    {
+      "id": 126,
+      "cultura": "Cafe",
+      "area_ha": 85.99,
+      "valor_estimado_k": 9374.19,
+      "insumo_custo_k": 5589.35,
+      "insumo_qtd": 34396.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 62.55
+    },
+    {
+      "id": 127,
+      "cultura": "Soja",
+      "area_ha": 78.46,
+      "valor_estimado_k": 576.3,
+      "insumo_custo_k": 3923.0,
+      "insumo_qtd": 47076.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 11.08
+    },
+    {
+      "id": 128,
+      "cultura": "Milho",
+      "area_ha": 55.54,
+      "valor_estimado_k": 2321.75,
+      "insumo_custo_k": 3221.32,
+      "insumo_qtd": 38878.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 76.27
+    },
+    {
+      "id": 129,
+      "cultura": "Soja",
+      "area_ha": 50.33,
+      "valor_estimado_k": 2582.6,
+      "insumo_custo_k": 2516.5,
+      "insumo_qtd": 30198.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 28.92
+    },
+    {
+      "id": 130,
+      "cultura": "Mandioca",
+      "area_ha": 19.53,
+      "valor_estimado_k": 838.85,
+      "insumo_custo_k": 878.85,
+      "insumo_qtd": 9765.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 29.19
+    },
+    {
+      "id": 131,
+      "cultura": "Mandioca",
+      "area_ha": 30.1,
+      "valor_estimado_k": 556.41,
+      "insumo_custo_k": 1354.5,
+      "insumo_qtd": 15050.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 23.97
+    },
+    {
+      "id": 132,
+      "cultura": "Cafe",
+      "area_ha": 21.11,
+      "valor_estimado_k": 248.95,
+      "insumo_custo_k": 1372.15,
+      "insumo_qtd": 8444.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 15.04
+    },
+    {
+      "id": 133,
+      "cultura": "Cafe",
+      "area_ha": 87.02,
+      "valor_estimado_k": 7789.81,
+      "insumo_custo_k": 5656.3,
+      "insumo_qtd": 34808.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 56.4
+    },
+    {
+      "id": 134,
+      "cultura": "Milho",
+      "area_ha": 83.33,
+      "valor_estimado_k": 7380.03,
+      "insumo_custo_k": 4833.14,
+      "insumo_qtd": 58331.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 54.22
+    },
+    {
+      "id": 135,
+      "cultura": "Mandioca",
+      "area_ha": 72.33,
+      "valor_estimado_k": 4514.1,
+      "insumo_custo_k": 3254.85,
+      "insumo_qtd": 36165.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 59.36
+    },
+    {
+      "id": 136,
+      "cultura": "Cafe",
+      "area_ha": 90.24,
+      "valor_estimado_k": 9131.41,
+      "insumo_custo_k": 5865.6,
+      "insumo_qtd": 36096.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 61.34
+    },
+    {
+      "id": 137,
+      "cultura": "Mandioca",
+      "area_ha": 31.05,
+      "valor_estimado_k": 1649.8,
+      "insumo_custo_k": 1397.25,
+      "insumo_qtd": 15525.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 60.43
+    },
+    {
+      "id": 138,
+      "cultura": "Cafe",
+      "area_ha": 60.91,
+      "valor_estimado_k": 2145.98,
+      "insumo_custo_k": 3959.15,
+      "insumo_qtd": 24364.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 25.15
+    },
+    {
+      "id": 139,
+      "cultura": "Milho",
+      "area_ha": 24.21,
+      "valor_estimado_k": 1109.05,
+      "insumo_custo_k": 1404.18,
+      "insumo_qtd": 16947.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 50.95
+    },
+    {
+      "id": 140,
+      "cultura": "Milho",
+      "area_ha": 71.78,
+      "valor_estimado_k": 1439.34,
+      "insumo_custo_k": 4163.24,
+      "insumo_qtd": 50246.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 34.97
+    },
+    {
+      "id": 141,
+      "cultura": "Cafe",
+      "area_ha": 39.8,
+      "valor_estimado_k": 3575.05,
+      "insumo_custo_k": 2587.0,
+      "insumo_qtd": 15920.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 69.99
+    },
+    {
+      "id": 142,
+      "cultura": "Milho",
+      "area_ha": 26.55,
+      "valor_estimado_k": 2113.69,
+      "insumo_custo_k": 1539.9,
+      "insumo_qtd": 18585.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 77.97
+    },
+    {
+      "id": 143,
+      "cultura": "Milho",
+      "area_ha": 80.38,
+      "valor_estimado_k": 9734.69,
+      "insumo_custo_k": 4662.04,
+      "insumo_qtd": 56266.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 64.68
+    },
+    {
+      "id": 144,
+      "cultura": "Mandioca",
+      "area_ha": 32.81,
+      "valor_estimado_k": 1100.78,
+      "insumo_custo_k": 1476.45,
+      "insumo_qtd": 16405.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 32.52
+    },
+    {
+      "id": 145,
+      "cultura": "Milho",
+      "area_ha": 9.27,
+      "valor_estimado_k": 573.05,
+      "insumo_custo_k": 537.66,
+      "insumo_qtd": 6489.0,
+      "agua_m3": 74.16,
+      "produtividade_t_ha": 38.76
+    },
+    {
+      "id": 146,
+      "cultura": "Milho",
+      "area_ha": 77.74,
+      "valor_estimado_k": 1056.65,
+      "insumo_custo_k": 4508.92,
+      "insumo_qtd": 54418.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 13.26
+    },
+    {
+      "id": 147,
+      "cultura": "Milho",
+      "area_ha": 22.11,
+      "valor_estimado_k": 718.42,
+      "insumo_custo_k": 1282.38,
+      "insumo_qtd": 15477.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 27.33
+    },
+    {
+      "id": 148,
+      "cultura": "Soja",
+      "area_ha": 46.19,
+      "valor_estimado_k": 2898.58,
+      "insumo_custo_k": 2309.5,
+      "insumo_qtd": 27714.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 51.52
+    },
+    {
+      "id": 149,
+      "cultura": "Cana de Acucar",
+      "area_ha": 44.83,
+      "valor_estimado_k": 2586.83,
+      "insumo_custo_k": 5917.56,
+      "insumo_qtd": 39450.4,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 65.61
+    },
+    {
+      "id": 150,
+      "cultura": "Cafe",
+      "area_ha": 18.45,
+      "valor_estimado_k": 1137.86,
+      "insumo_custo_k": 1199.25,
+      "insumo_qtd": 7380.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 48.96
+    },
+    {
+      "id": 151,
+      "cultura": "Cana de Açúcar",
+      "area_ha": 200.0,
+      "valor_estimado_k": 2.64,
+      "insumo_custo_k": 26400.0,
+      "insumo_qtd": 176000.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 0.09
+    },
+    {
+      "id": 152,
+      "cultura": "Mandioca",
+      "area_ha": 100.0,
+      "valor_estimado_k": 0.45,
+      "insumo_custo_k": 4500.0,
+      "insumo_qtd": 50000.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 0.05
+    },
+    {
+      "id": 153,
+      "cultura": "Cana de Açúcar",
+      "area_ha": 20000.0,
+      "valor_estimado_k": 264.0,
+      "insumo_custo_k": 2640000.0,
+      "insumo_qtd": 17600000.0,
+      "agua_m3": 112.0,
+      "produtividade_t_ha": 0.09
+    },
+    {
+      "id": 154,
+      "cultura": "Mandioca",
+      "area_ha": 10.0,
+      "valor_estimado_k": 0.04,
+      "insumo_custo_k": 450.0,
+      "insumo_qtd": 5000.0,
+      "agua_m3": 80.0,
+      "produtividade_t_ha": 0.05
+    }
+  ],
+  "source": {
+    "producoes": 154,
+    "talhoes": 1,
+    "ajustes": 0
+  },
+  "input_file": "C:\\Users\\USUARIO\\Desktop\\FIAP\\Fase 7 - 2025\\Cap 1 - A consolidação de um sistema\\Consolidação de um Sistema\\services\\core\\ml_models\\data\\genetic_input.json"
+}

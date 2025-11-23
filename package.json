@@ -1,0 +1,32 @@
+{
+  "name": "farmtech-consolidado",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema Consolidado FarmTech - Gestão Agrícola Inteligente",
+  "author": "Diogo Leite Zequini Pinto - RM565535",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*",
+    "services/*"
+  ],
+  "scripts": {
+    "dev": "node scripts/init-database.js && npx kill-port 3000 3001 3002 3003 3004 3005 8000 8001 8501 8510 8511 8512 8513 8514 8515 && concurrently \"npm run dev:api\" \"npm run dev:web\" \"npm run dev:streamlit\" --names \"API,WEB,DASH\" --prefix-colors \"bgBlue.bold,bgGreen.bold,bgMagenta.bold\"",
+    "dev:api": "node scripts/start-api.js",
+    "dev:web": "cd apps/web && pnpm dev",
+    "dev:streamlit": "node scripts/start-streamlit.js",
+    "dev:old": "pnpm -w --parallel -F @farmtech/web -F @farmtech/dashboard dev",
+    "build": "pnpm --recursive build",
+    "test": "pnpm --recursive test",
+    "lint": "pnpm --recursive lint",
+    "clean": "pnpm --recursive clean",
+    "setup": "node scripts/setup-all.js"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "kill-port": "^2.0.1",
+    "concurrently": "^8.2.2"
+  }
+}

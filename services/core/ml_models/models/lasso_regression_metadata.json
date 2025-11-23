@@ -1,0 +1,16 @@
+{
+  "model_name": "lasso_regression",
+  "model_type": "Lasso",
+  "trained_date": "2025-11-22T16:51:16.570735",
+  "version": "1.0",
+  "r2_score": 0.74,
+  "mae": 3.3,
+  "rmse": 4.2,
+  "training_time_seconds": 0.06,
+  "features": [
+    "ph",
+    "temperatura"
+  ],
+  "target": "umidade",
+  "status": "treinado"
+}

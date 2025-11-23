@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(ping:*)",
+      "Bash(nul)",
+      "Bash(find:*)",
+      "Bash(cat:*)",
+      "Bash(sqlite3:*)",
+      "Bash(tree:*)",
+      "Bash(if not exist \".env\" copy \".env.example\" \".env\")",
+      "Bash(test:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

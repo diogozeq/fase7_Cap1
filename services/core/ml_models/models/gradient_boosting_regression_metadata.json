@@ -1,0 +1,16 @@
+{
+  "model_name": "gradient_boosting_regression",
+  "model_type": "GradientBoostingRegressor",
+  "trained_date": "2025-11-22T16:51:16.570742",
+  "version": "1.0",
+  "r2_score": 0.91,
+  "mae": 1.9,
+  "rmse": 2.5,
+  "training_time_seconds": 2.3,
+  "features": [
+    "ph",
+    "temperatura"
+  ],
+  "target": "umidade",
+  "status": "treinado"
+}
