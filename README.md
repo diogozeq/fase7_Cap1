@@ -1,6 +1,6 @@
 # FarmTech Solutions - Sistema Consolidado de Gestão Agronegócio
 
-> **Autor:** Diogo Zequini
+> **Autor:** Diogo Zequini - RM 565535
 > **Projeto:** Fase 7 - A Consolidação de um Sistema
 > **Instituição:** FIAP - Inteligência Artificial
 > **Período:** 2025
