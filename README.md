@@ -598,16 +598,7 @@ Evidências incluídas:
 
 ## 🎥 Vídeo de Demonstração
 
-**Link do YouTube (não listado):** [ADICIONAR LINK AQUI]
-
-**Conteúdo (10min):**
-1. Introdução e arquitetura do projeto (1min)
-2. Dashboard Nuxt navegando pelas fases (2min)
-3. Sistema IoT com lógica de 4 prioridades (1min)
-4. Machine Learning (ARIMA, K-Means) (1min)
-5. Visão Computacional (YOLO + fallback) (1min)
-6. Sistema de Alertas AWS (email + SMS) (2min)
-7. Algoritmo Genético com visualização (2min)
+**Link do YouTube (não listado):https://youtu.be/O_7t-UxDq-s
 
 ---
 
